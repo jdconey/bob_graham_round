@@ -12,14 +12,13 @@ bob_graham_round/
 |   ├─leg3.gpx
 |   ├─leg4.gpx
 |   └─leg5.gpx
-└─logistics/
+-logistics/
 |   ├─food.md [to follow]
-|   ├─general_instructions.md [to follow]
+|   ├─general_instructions.md 
 |   ├─pack_list.md [to follow]
 |   ├─road_support_locations.md
 |   └─schedule.csv
-└─README.md
-
+- README.md
 ```
 
 The `gpx` directory contains gpx files for supporters to use when supporting me.
