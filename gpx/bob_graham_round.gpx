@@ -47,8 +47,8 @@
     <name>White Side</name>
     <sym>Summit</sym>
   </wpt>
-  <wpt lat="54.547804" lon="-3.017621">
-    <ele>875.1742629011585</ele>
+  <wpt lat="54.547718926850536" lon="-3.0175709810756928">
+    <ele>876.1597022069625</ele>
     <name>Raise</name>
     <sym>Summit</sym>
   </wpt>
@@ -107,7 +107,7 @@
     <name>Broad Crag</name>
     <sym>Summit</sym>
   </wpt>
-  <wpt lat="54.45668" lon="-3.109459">
+  <wpt lat="54.456871805193146" lon="-3.109443820621891">
     <ele>715.7573030907672</ele>
     <name>Harrison Stickle</name>
     <sym>Summit</sym>
@@ -127,13 +127,13 @@
     <name>Rossett Pike</name>
     <sym>Summit</sym>
   </wpt>
-  <wpt lat="54.447703" lon="-3.166187">
-    <ele>878.7636443879925</ele>
+  <wpt lat="54.447797" lon="-3.166242">
+    <ele>881.0986817472906</ele>
     <name>Bowfell</name>
     <sym>Summit</sym>
   </wpt>
-  <wpt lat="54.457088" lon="-3.179481">
-    <ele>866.6867643734911</ele>
+  <wpt lat="54.457149" lon="-3.17917">
+    <ele>871.6101201938005</ele>
     <name>Esk Pike</name>
     <sym>Summit</sym>
   </wpt>
@@ -28021,8 +28021,20 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="54.456807" lon="-3.109448">
+      <trkpt lat="54.456866" lon="-3.109463">
         <ele>700.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>path</highway>
+              <foot>permissive</foot>
+              <sac_scale>hiking</sac_scale>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.456875" lon="-3.109479">
+        <ele>701</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
@@ -28034,29 +28046,8 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="54.456681" lon="-3.109462">
-        <ele>700.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <foot>permissive</foot>
-              <sac_scale>hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.456807" lon="-3.109448">
+      <trkpt lat="54.456866" lon="-3.109463">
         <ele>700.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <foot>permissive</foot>
-              <sac_scale>hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="54.456866" lon="-3.109463">
         <ele>700.25</ele>
@@ -28632,6 +28623,17 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
+      <trkpt lat="54.456577" lon="-3.118251">
+        <ele>655.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>path</highway>
+              <sac_scale>demanding_mountain_hiking</sac_scale>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
       <trkpt lat="54.456591" lon="-3.118814">
         <ele>658.25</ele>
         <extensions>
@@ -28778,7 +28780,7 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="54.456688" lon="-3.120784">
+      <trkpt lat="54.456669" lon="-3.120723">
         <ele>658.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
@@ -28790,148 +28792,26 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="54.456696" lon="-3.120865">
-        <ele>657.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.456669" lon="-3.120723">
+        <ele>672.9702181747776</ele>
       </trkpt>
-      <trkpt lat="54.456674" lon="-3.120977">
-        <ele>656.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>gravel</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.45650503047395" lon="-3.120863940711729">
+        <ele>668.9654979783211</ele>
       </trkpt>
-      <trkpt lat="54.456669" lon="-3.121004">
-        <ele>656.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>gravel</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.45650503047395" lon="-3.120863940711729">
+        <ele>668.9654979783211</ele>
       </trkpt>
-      <trkpt lat="54.456685" lon="-3.12126">
-        <ele>654.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>gravel</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.45649355034024" lon="-3.121258907899289">
+        <ele>664.7009084752539</ele>
       </trkpt>
-      <trkpt lat="54.456684" lon="-3.121317">
-        <ele>654</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>gravel</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.45649355034024" lon="-3.121258907899289">
+        <ele>664.7009084752539</ele>
       </trkpt>
-      <trkpt lat="54.45668" lon="-3.121437">
-        <ele>653</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>gravel</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.45642696550064" lon="-3.121353700023917">
+        <ele>657.461695686676</ele>
       </trkpt>
-      <trkpt lat="54.456664" lon="-3.121499">
-        <ele>652.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>unknown</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.456637" lon="-3.121515">
-        <ele>651.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>unknown</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.456607" lon="-3.121453">
-        <ele>650.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>unknown</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.456568" lon="-3.121396">
-        <ele>650</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>unknown</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.45651" lon="-3.121456">
-        <ele>647.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>unknown</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.456472" lon="-3.121461">
-        <ele>646.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <surface>unknown</surface>
-              <sac_scale>demanding_mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.456412" lon="-3.121458">
+        <ele>652.7270811970765</ele>
       </trkpt>
       <trkpt lat="54.456412" lon="-3.121458">
         <ele>644.25</ele>
@@ -29365,17 +29245,56 @@
       <trkpt lat="54.46310228682259" lon="-3.1371736968383175">
         <ele>506.016785631434</ele>
       </trkpt>
-      <trkpt lat="54.46329665470046" lon="-3.137842517458836">
-        <ele>490.780461568433</ele>
+      <trkpt lat="54.46310228682259" lon="-3.1371736968383175">
+        <ele>506.016785631434</ele>
       </trkpt>
-      <trkpt lat="54.46354933156155" lon="-3.1382438098302714">
-        <ele>480.1284281961391</ele>
+      <trkpt lat="54.46321435401944" lon="-3.1377153872111307">
+        <ele>493.91418661072413</ele>
       </trkpt>
-      <trkpt lat="54.463860316326134" lon="-3.1384444560159466">
-        <ele>470.08605934449946</ele>
+      <trkpt lat="54.46321435401944" lon="-3.1377153872111307">
+        <ele>493.91418661072413</ele>
       </trkpt>
-      <trkpt lat="54.463828" lon="-3.138481">
-        <ele>472.5</ele>
+      <trkpt lat="54.46355867509618" lon="-3.1382051109801807">
+        <ele>480.9914900418374</ele>
+      </trkpt>
+      <trkpt lat="54.46355867509618" lon="-3.1382051109801807">
+        <ele>480.9914900418374</ele>
+      </trkpt>
+      <trkpt lat="54.4638616752473" lon="-3.1384578716361204">
+        <ele>469.8342225650573</ele>
+      </trkpt>
+      <trkpt lat="54.46382833140919" lon="-3.138947989360304">
+        <ele>463.31498673008855</ele>
+      </trkpt>
+      <trkpt lat="54.46382833140919" lon="-3.138947989360304">
+        <ele>463.31498673008855</ele>
+      </trkpt>
+      <trkpt lat="54.46382833140919" lon="-3.138947989360304">
+        <ele>463.31498673008855</ele>
+      </trkpt>
+      <trkpt lat="54.46382396702274" lon="-3.139721606025118">
+        <ele>458.15712780020635</ele>
+      </trkpt>
+      <trkpt lat="54.46382035717693" lon="-3.1403614753207876">
+        <ele>450.4969212825799</ele>
+      </trkpt>
+      <trkpt lat="54.46382035717693" lon="-3.1403614753207876">
+        <ele>450.4969212825799</ele>
+      </trkpt>
+      <trkpt lat="54.4637786206906" lon="-3.1411317873746207">
+        <ele>443.2246823362079</ele>
+      </trkpt>
+      <trkpt lat="54.463769857256665" lon="-3.1412935302377036">
+        <ele>441.6800356986473</ele>
+      </trkpt>
+      <trkpt lat="54.4636857007352" lon="-3.1420535107093652">
+        <ele>431.33084737283946</ele>
+      </trkpt>
+      <trkpt lat="54.463647" lon="-3.142403">
+        <ele>426.39886341830544</ele>
+      </trkpt>
+      <trkpt lat="54.463647" lon="-3.142403">
+        <ele>430.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
@@ -29384,320 +29303,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="54.463978" lon="-3.138853">
-        <ele>466.25</ele>
+      <trkpt lat="54.463647" lon="-3.142403">
+        <ele>430.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.464008" lon="-3.139095">
-        <ele>463</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463999" lon="-3.139453">
-        <ele>459</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.464004" lon="-3.139794">
-        <ele>455</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463969" lon="-3.140157">
-        <ele>451</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.46393" lon="-3.140716">
-        <ele>444.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463955" lon="-3.14084">
-        <ele>443.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463989" lon="-3.141018">
-        <ele>441.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.464049" lon="-3.141339">
-        <ele>438</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.46409" lon="-3.141253">
-        <ele>439</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.46415" lon="-3.14124">
-        <ele>439</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.46424" lon="-3.141344">
-        <ele>437.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.464226" lon="-3.141387">
-        <ele>437.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.464163" lon="-3.141497">
-        <ele>436.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.464151" lon="-3.141541">
-        <ele>436</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.464155" lon="-3.141723">
-        <ele>434.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.464138" lon="-3.141832">
-        <ele>434.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.46412" lon="-3.141902">
-        <ele>434.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.464076" lon="-3.141945">
-        <ele>434</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.464036" lon="-3.14202">
-        <ele>433.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463975" lon="-3.142075">
-        <ele>432.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463893" lon="-3.142151">
-        <ele>432.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463848" lon="-3.142276">
-        <ele>432.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.46381" lon="-3.14235">
-        <ele>431.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463775" lon="-3.142381">
-        <ele>431.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463723" lon="-3.142383">
-        <ele>431.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463692" lon="-3.142395">
-        <ele>431</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>bridleway</highway>
-              <foot>designated</foot>
-              <bicycle>designated</bicycle>
-              <route_hiking_rwn>yes</route_hiking_rwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -30117,34 +29728,6 @@
       </trkpt>
       <trkpt lat="54.463141" lon="-3.14493">
         <ele>452.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463138" lon="-3.144998">
-        <ele>454.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.463138" lon="-3.145">
-        <ele>454.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
@@ -31377,6 +30960,9 @@
       </trkpt>
       <trkpt lat="54.461712" lon="-3.151475">
         <ele>555.25</ele>
+      </trkpt>
+      <trkpt lat="54.461712" lon="-3.151475">
+        <ele>555.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
@@ -32010,6 +31596,19 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
+      <trkpt lat="54.457896" lon="-3.163031">
+        <ele>606</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>path</highway>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
       <trkpt lat="54.457747" lon="-3.163211">
         <ele>606.25</ele>
         <extensions>
@@ -32190,28 +31789,6 @@
       </trkpt>
       <trkpt lat="54.456028" lon="-3.163096">
         <ele>629.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>footway</highway>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.455775" lon="-3.16331">
-        <ele>639.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>footway</highway>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.455774" lon="-3.163311">
-        <ele>639.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
@@ -32441,6 +32018,18 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
+      <trkpt lat="54.452691" lon="-3.165247">
+        <ele>806.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>footway</highway>
+              <surface>ground</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
       <trkpt lat="54.452604" lon="-3.165261">
         <ele>806.25</ele>
         <extensions>
@@ -32477,264 +32066,59 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="54.452194" lon="-3.165516">
+      <trkpt lat="54.452229" lon="-3.165499">
         <ele>817.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
       </trkpt>
-      <trkpt lat="54.45183" lon="-3.165484">
-        <ele>818</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.45222635170174" lon="-3.165470723788303">
+        <ele>829.8543279649695</ele>
       </trkpt>
-      <trkpt lat="54.451493" lon="-3.165594">
-        <ele>820.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.451778328483655" lon="-3.16553665894764">
+        <ele>839.3298091348281</ele>
       </trkpt>
-      <trkpt lat="54.451145" lon="-3.165638">
-        <ele>820</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.45133030526557" lon="-3.1656025941069763">
+        <ele>838.9832698622392</ele>
       </trkpt>
-      <trkpt lat="54.450762" lon="-3.166001">
-        <ele>828.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.45114387655704" lon="-3.165630030646213">
+        <ele>835.5394313085753</ele>
       </trkpt>
-      <trkpt lat="54.450554" lon="-3.166291">
-        <ele>837.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.45114387655704" lon="-3.165630030646213">
+        <ele>835.5394313085753</ele>
       </trkpt>
-      <trkpt lat="54.449898" lon="-3.166543">
-        <ele>847</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.450733076738814" lon="-3.1659445442051983">
+        <ele>842.4652844091453</ele>
       </trkpt>
-      <trkpt lat="54.44948" lon="-3.166753">
-        <ele>857</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <foot>designated</foot>
-              <bicycle>no</bicycle>
-              <sac_scale>mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.45032227692058" lon="-3.166259057764184">
+        <ele>847.7610283399424</ele>
       </trkpt>
-      <trkpt lat="54.449419" lon="-3.166688">
-        <ele>859.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <foot>designated</foot>
-              <bicycle>no</bicycle>
-              <sac_scale>mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.449911477102354" lon="-3.166573571323169">
+        <ele>848.907895758325</ele>
       </trkpt>
-      <trkpt lat="54.448876" lon="-3.166566">
-        <ele>869.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <foot>designated</foot>
-              <bicycle>no</bicycle>
-              <sac_scale>mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.44989832743374" lon="-3.1665836388764887">
+        <ele>848.8700390906351</ele>
       </trkpt>
-      <trkpt lat="54.448651" lon="-3.166254">
-        <ele>870.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-              <foot>designated</foot>
-              <bicycle>no</bicycle>
-              <sac_scale>mountain_hiking</sac_scale>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.44989832743374" lon="-3.1665836388764887">
+        <ele>848.8700390906351</ele>
       </trkpt>
-      <trkpt lat="54.448254" lon="-3.166125">
-        <ele>875.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.44989832743374" lon="-3.1665836388764887">
+        <ele>848.8700390906351</ele>
       </trkpt>
-      <trkpt lat="54.448227" lon="-3.1663">
-        <ele>876.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.4494550487105" lon="-3.1664538070907664">
+        <ele>855.6019118822421</ele>
       </trkpt>
-      <trkpt lat="54.448172" lon="-3.166445">
-        <ele>876.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.44929529200385" lon="-3.1664070159920357">
+        <ele>861.3319562559088</ele>
       </trkpt>
-      <trkpt lat="54.448097" lon="-3.166591">
-        <ele>875.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.4488468892611" lon="-3.1663492185416358">
+        <ele>879.2104952521162</ele>
       </trkpt>
-      <trkpt lat="54.448041" lon="-3.166498">
-        <ele>874</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.44839848651834" lon="-3.166291421091236">
+        <ele>884.5435330652866</ele>
       </trkpt>
-      <trkpt lat="54.447962" lon="-3.166447">
-        <ele>872.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.44795008377559" lon="-3.1662336236408364">
+        <ele>883.199451129698</ele>
       </trkpt>
-      <trkpt lat="54.447941" lon="-3.166314">
-        <ele>871.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.447877" lon="-3.166298">
-        <ele>870</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.447777" lon="-3.166292">
-        <ele>868.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="54.447777" lon="-3.166292">
-        <ele>880.14132880401</ele>
+      <trkpt lat="54.447683778844095" lon="-3.1661992979229012">
+        <ele>878.0920247714844</ele>
       </trkpt>
       <trkpt lat="54.447683778844095" lon="-3.1661992979229012">
         <ele>878.0920247714844</ele>
@@ -32829,50 +32213,47 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="54.448172" lon="-3.166445">
-        <ele>876.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>path</highway>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.448097" lon="-3.166591">
+        <ele>882.172146761558</ele>
       </trkpt>
-      <trkpt lat="54.448227" lon="-3.1663">
-        <ele>876.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.44829599622307" lon="-3.1667138568042503">
+        <ele>880.9539143406796</ele>
       </trkpt>
-      <trkpt lat="54.448784" lon="-3.167517">
-        <ele>856</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.44829599622307" lon="-3.1667138568042503">
+        <ele>880.9539143406796</ele>
       </trkpt>
-      <trkpt lat="54.449663" lon="-3.167646">
-        <ele>840.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="54.44856926527253" lon="-3.1673280214081143">
+        <ele>869.7477324012307</ele>
+      </trkpt>
+      <trkpt lat="54.44862501047899" lon="-3.1674533072123836">
+        <ele>865.8183021672398</ele>
+      </trkpt>
+      <trkpt lat="54.44862501047899" lon="-3.1674533072123836">
+        <ele>865.8183021672398</ele>
+      </trkpt>
+      <trkpt lat="54.44867432543478" lon="-3.1676520945047457">
+        <ele>860.4004253305662</ele>
+      </trkpt>
+      <trkpt lat="54.44867432543478" lon="-3.1676520945047457">
+        <ele>860.4004253305662</ele>
+      </trkpt>
+      <trkpt lat="54.44905529484805" lon="-3.1676109800722543">
+        <ele>852.872695421061</ele>
+      </trkpt>
+      <trkpt lat="54.44905529484805" lon="-3.1676109800722543">
+        <ele>852.872695421061</ele>
+      </trkpt>
+      <trkpt lat="54.449504668785636" lon="-3.1675833764324772">
+        <ele>839.2291826991677</ele>
+      </trkpt>
+      <trkpt lat="54.44953696650717" lon="-3.167581392484152">
+        <ele>839.0849129544306</ele>
+      </trkpt>
+      <trkpt lat="54.449968069763614" lon="-3.1678012725192977">
+        <ele>838.5780247053136</ele>
+      </trkpt>
+      <trkpt lat="54.450044" lon="-3.16784">
+        <ele>838.1746225397105</ele>
       </trkpt>
       <trkpt lat="54.450044" lon="-3.16784">
         <ele>833.75</ele>
